@@ -52,4 +52,4 @@ Nota: Todos as submissões com 3 a 5 palestrantes precisam ter pelo menos um ora
 
 O Kubernetes Community Days é dedicado a fornecer uma experiência sem assédio para os participantes de todos os nossos eventos. Incentivamos todos os remetentes a revisar nosso [Código de Conduta](/code-of-conduct).
 
-Se você tiver alguma dúvida sobre o processo, entre em contato com [organizers-campinas@kubernetescommunitydays.org] (mailto:organizers-campinas@kubernetescommunitydays.org).
+Se você tiver alguma dúvida sobre o processo, entre em contato com [organizers-belohorizonte@kubernetescommunitydays.org] (mailto:organizers-belohorizonte@kubernetescommunitydays.org).

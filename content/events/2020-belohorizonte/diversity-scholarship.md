@@ -10,4 +10,4 @@ Serão fornecidas várias bolsas de estudo e os beneficiários receberão até U
 
 As bolsas são concedidas com base em uma combinação de necessidade e impacto. A seleção será feita por um grupo reunido de revisores que avaliarão a solicitação de cada candidato. Todas as informações do aplicativo serão mantidas em sigilo.
 
-Para se aplicar nos contate em  [organizers-campinas@kubernetescommunitydays.org](mailto:organizers-campinas@kubernetescommunitydays.org).
+Para se aplicar nos contate em  [organizers-belohorizonte@kubernetescommunitydays.org](mailto:organizers-belohorizonte@kubernetescommunitydays.org).
