@@ -31,32 +31,32 @@ speakers:
 #   homepage: https://phippy.io
 organizers:
 - name: Amanda Pinto
-  image: team/amandapinto.jpeg
-  twitter: 
-  bio: 
+  image: team/amandapinto.jpg
+  twitter:
+  bio:
   homepage: https://www.linkedin.com/in/amanda-pinto-b4217a42/
 - name: Andre Almar
-  image: team/andrealmar.jpeg
-  twitter: 
-  bio: 
+  image: team/andrealmar.jpg
+  twitter:
+  bio:
   homepage: https://www.linkedin.com/in/andrealmar/
 - name: Marcelo Umberto Ferreira Silva
-  image: team/marceloumberto.jpeg
-  twitter: 
-  bio: 
+  image: team/marceloumberto.jpg
+  twitter:
+  bio:
   homepage: https://www.linkedin.com/in/marcelo-umberto-ferreira-da-silva-01346a37/
 - name: Jeferson Pereira
-  image: team/jefersonpereira.jpeg
-  twitter: 
-  bio: 
-  homepage: https://www.linkedin.com/in/pereira-jeferson-it/ 
+  image: team/jefersonpereira.jpg
+  twitter:
+  bio:
+  homepage: https://www.linkedin.com/in/pereira-jeferson-it/
 - name: Zandler Oliveira
-  image: team/zandleroliveira.jpeg
-  twitter: 
-  bio: 
+  image: team/zandleroliveira.jpg
+  twitter:
+  bio:
   homepage: https://www.linkedin.com/in/zandler-oliveira/
 - name: Paulo Simões
-  image: team/paulosimoes.jpeg
+  image: team/paulosimoes.jpg
   twitter: https://twitter.com/pasimoes
   bio: CNCF Ambassador | Developer Advocate | Oracle Latin America Solution Engineer
   homepage: https://www.linkedin.com/in/paulosimoes/
